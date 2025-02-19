@@ -6,7 +6,7 @@
 
 # Welcome! 👋
 
-📌 Hello! My name is Max Marques. I'm a Technical High School student in Information Technology at IFMA, a Brazilian Federal Institute.
+📌 Hello! My name is Max Marques. I'm a Technical High School student in Information Technology at IFMA, a Brazilian Federal Institute (IFET).
 
 
 Currently studying:
