@@ -1,7 +1,7 @@
 <h3 align="center">🍰 README.md</h3>
 
 <p align="center">
-    <img src="k-on_cake.gif" alt="Banner" width="500" height="auto">
+    <img src="frieren.gif" alt="Banner" width="500" height="auto">
 </p>
 
 # Welcome! 👋
